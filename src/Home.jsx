@@ -90,7 +90,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-4">Ready to Start?</h2>
           <p className="text-gray-400 mb-6">Join the gamified revolution in cloud learning.</p>
           <button className="bg-gradient-to-r from-orange-500 to-pink-500 px-8 py-3 rounded-lg font-bold text-white shadow-lg shadow-orange-500/40 hover:scale-105 transition">
-            Begin Your Journey
+            Begin Your Journey TestTest
           </button>
         </div>
       </section>
